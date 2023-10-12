@@ -1,0 +1,29 @@
+body {
+    position:relative;
+}
+
+.centre {
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.gauche {
+    float: left;
+    text-align: center;
+    height:60%;
+    width:250px;
+    border-radius: 25px;
+    border: solid;
+    background-color: aqua;
+}
+
+.droite {
+    float: right;
+    text-align: center;
+    margin-right: 30%;
+}
+
+.lien {
+    text-decoration: none;
+}
