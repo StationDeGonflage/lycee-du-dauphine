@@ -27,3 +27,8 @@ body {
 .lien {
     text-decoration: none;
 }
+
+#actuelle {
+    text-decoration: underline;
+    color: rgb(204, 12, 12);
+}
