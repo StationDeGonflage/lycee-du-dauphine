@@ -32,3 +32,9 @@ body {
     text-decoration: underline;
     color: rgb(204, 12, 12);
 }
+
+.droite-2 {
+    float: none;
+    text-align: center;
+    margin-left:500px;
+}
