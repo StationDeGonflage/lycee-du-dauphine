@@ -11,7 +11,7 @@ body {
 .gauche {
     float: left;
     text-align: center;
-    height:60%;
+    height:auto;
     width:250px;
     border-radius: 25px;
     border: solid;
